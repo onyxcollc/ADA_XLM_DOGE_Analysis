@@ -1,3 +1,4 @@
 # ADA_XLM_DOGE_Analysis
 
-![Crypto](Crypto_Images.jpg, width=800)
+
+img src="Images/Crypto_Images.jpg" width="800"
