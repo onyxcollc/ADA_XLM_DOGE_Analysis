@@ -1,3 +1,3 @@
 # ADA_XLM_DOGE_Analysis
 
-![Crypto](LeBron.jpg)
+![Crypto](Crypto_Images.jpg)
